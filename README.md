@@ -1,2 +1,3 @@
 # Ping-Pong-on-python
-This is python on python!
+Made by Me Mr_PolarSnow
+Discord: Mr_PolarSnow#7650
